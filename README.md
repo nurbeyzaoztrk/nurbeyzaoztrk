@@ -5,4 +5,4 @@
 - 📫 How to reach me ? my mail adress = nurbeyzaoztrk@gmail.com
 
 As a junior softwear developer, I am passionate about learning and exploring the latest tools and techniques in the field.
-My main interests include algorithms, cyber security and go langugue
+My main interests include algorithms, cyber security and go language
