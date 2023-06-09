@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beyza Nur Öztürk</h1>
-<img align="left" alt="Coding" width="200" margin=30px src="https://i.giphy.com/media/kKefeMw8rbMVq/giphy.webp"/>
+<img align="left" alt="Coding" width="200" margin=30px src="https://i.giphy.com/media/kKefeMw8rbMVq/giphy.webp">
+
 - I have experience in:
     - Golang, Tailwind CSS , CSS, HTML, Java
     
