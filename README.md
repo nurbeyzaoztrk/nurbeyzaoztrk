@@ -19,4 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurbeyzaoztrk&show_icons=true&locale=en" alt="nurbeyzaoztrk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurbeyzaoztrk&" alt="nurbeyzaoztrk" /></p>
-v
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurbeyzaoztrk&label=Profile%20views&color=0e75b6&style=flat" alt="nurbeyzaoztrk" /> </p>v
