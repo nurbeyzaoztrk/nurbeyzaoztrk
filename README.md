@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beyza Nur Öztürk</h1>
-
+<img align="left" alt="Coding" width="200" margin=30px src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
